@@ -13,7 +13,7 @@ Employee Tracker,
 Uses MySQL, Node, and Inquirer to create a back-end application that helps a manager navigate through employees in a database.
 
 ## Deployed
-
+https://mzrainy.github.io/Employee_Tracker/
 View my video here.
 
 ## Usage
